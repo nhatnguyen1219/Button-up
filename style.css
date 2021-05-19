@@ -1,0 +1,27 @@
+#searchButton{
+    border: 2px solid teal;
+    border-radius: 25px;
+    height: 130%;
+    width: 10%;
+    
+
+
+}
+#plus-sign{
+    border: 2px solid teal; 
+    border-radius: 50%;
+    background-color: teal;
+    color: white;
+    /* height: 130%; */
+    /* width: 10%; */
+
+
+}
+#box{
+    background-color: blue;
+    box-shadow: 3px 1px 3px black;
+    border: 2px solid black;
+    color: white;
+
+
+}
